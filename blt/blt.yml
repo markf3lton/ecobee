@@ -13,7 +13,7 @@ project:
   machine_name: ecobee
   # Used for enforcing correct git commit msg syntax.
   prefix: BLT
-  human_name: 'BLTed 10'
+  human_name: 'eco BLT'
   profile:
     name: lightning
   # This will be used as the local uri for all developers.
